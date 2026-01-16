@@ -1,4 +1,4 @@
-# Backup and restore your Nextcloud apps before and after updates
+# Back up and restore your Nextcloud apps before and after updates
 
 It's that simple.
 
