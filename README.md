@@ -1,3 +1,5 @@
+# Backup and restore your Nextcloud apps before and after updates
+
 It's that simple.
 
 If you've been having that issue with your apps disappearing between (manual or docker-based) updates, then this will get you back up and running faster - resolving that weird state when it thinks things are installed when they're not and so on.
